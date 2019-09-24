@@ -15,3 +15,7 @@ pip instal ipykernel
 ipython kernel install --user --name=test_binder
 Installed kernelspec test_binder in /home/bneron/.local/share/jupyter/kernels/test_binder
 ```
+
+# notebook live 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bneron/test_binder/master?filepath=cookbook_python_binder_test.ipynb)
